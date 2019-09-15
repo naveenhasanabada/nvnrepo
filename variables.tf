@@ -1,13 +1,14 @@
 
 
-
 variable "access_key" {
-  default = "AKIAIWVNYJMXHM7TXWHQ"
+  default = "AKIA3LSWZNCBRQVUPL5O"
 }
 
 variable "secret_key" {
-  default = "hol8Imem38D2kI4N8X+Wo2vupN5XL11JzzEQvdNk"
+  default = "AIam0hGBosCf6DYCe7cm9rpXKAjNXXXRajmB7c2m"  #"hol8Imem38D2kI4N8X+Wo2vupN5XL11JzzEQvdNk"
 }
+
+
 
 variable "aws_region" {
   default = "us-east-2"
